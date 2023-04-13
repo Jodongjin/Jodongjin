@@ -21,7 +21,7 @@
     <br />
    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart-dot-js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white"/>
-  </div>
+</div>
     
 
 ### Skills
@@ -31,26 +31,21 @@
 <div align='center'>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-4A154B?style=flat-square&logo=Jira&logoColor=white"/>
-  
-  </div>
-<p></p>
-<p></p>
+</div>
+<br/>
 
 
-    
 ### My stats 🤓
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodongjin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodongjin&langs_count=10&layout=compact&theme=dark)
+<br/>
 
-<p></p>
-<p></p>
-
+    
 ### About Me👩‍💻
 
 <div align='center'>
   <a href="[https://ejko0911.medium.com/](https://www.notion.so/2b0816114973444099b073cf6acf76bb)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  </div>
-<p></p>
+</div>
 
 </div>
