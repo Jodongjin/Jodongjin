@@ -6,6 +6,7 @@
 ### Welcome 👋
 
 <p></p>
+<p></p>
 
 ### Language
 <div align='center'>
@@ -33,6 +34,7 @@
   
   </div>
 <p></p>
+<p></p>
 
 
     
@@ -41,7 +43,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodongjin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodongjin&langs_count=10&layout=compact&theme=dark)
 
-
+<p></p>
+<p></p>
 
 ### About Me👩‍💻
 
