@@ -1,5 +1,5 @@
 ### 안녕하세요 개발자 애플입니다. 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Developer%20Apple&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Developer%20Apple&fontSize=70&animation=twinkling)
 
 # Introduction
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodongjin&show_icons=true&theme=radical)
