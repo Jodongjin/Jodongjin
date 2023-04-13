@@ -3,17 +3,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Apple's%20GitHub&fontSize=70&animation=twinkling&fontAlignY=35&fontColor=FFFFFF)
 
 
-## Welcome 👋
+# Welcome 👋
 
 <br/>
 <br/>
 
-## What i have
+# What i have
 ### Language
 <div align='center'>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
-### SKills
+
+### Skills
 <div align='center'>
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
