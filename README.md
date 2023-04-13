@@ -25,8 +25,8 @@
 
 ### Platform🤹   
 <div align='center'>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-4A154B?style=flat-square&logo=Jira&logoColor=white"/>
   
   </div>
 <p></p>
@@ -43,7 +43,7 @@
 ### About Me👩‍💻
 
 <div align='center'>
-  <a href="[https://ejko0911.medium.com/](https://www.notion.so/2b0816114973444099b073cf6acf76bb)"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="[https://ejko0911.medium.com/](https://www.notion.so/2b0816114973444099b073cf6acf76bb)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   </div>
 <p></p>
 
