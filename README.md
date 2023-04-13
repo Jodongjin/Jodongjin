@@ -29,10 +29,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=react&logoColor=white"/>
 </div>
-    
-
-
-    
+  
 
 ### Platform 💭
 <div align='center'>
@@ -46,6 +43,8 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodongjin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodongjin&langs_count=10&layout=compact&theme=dark)
+<br/>
+<br/>
 <br/>
 <br/>
     
