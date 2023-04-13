@@ -1,4 +1,4 @@
-### 안녕하세요 👋
+### 안녕하세요 개발자 애플입니다. 👋
 
 # Introduction
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodongjin&show_icons=true&theme=radical)
