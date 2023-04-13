@@ -9,7 +9,7 @@
 
 ### Major
 <div align='center'>
-  <span>Java<span>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=react&logoColor=white"/>
 </div>
     
