@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Apple's%20GitHub&fontSize=70&animation=twinkling&fontAlignY=35&fontColor=FFFFFF)
 
-
 ### Welcome 👋
 
 <br/>
