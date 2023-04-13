@@ -43,8 +43,7 @@
 ### About Me👩‍💻
 
 <div align='center'>
-  <a href="https://ejko0911.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
-  <a href="https://velog.io/@eunjeong"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="[https://ejko0911.medium.com/](https://www.notion.so/2b0816114973444099b073cf6acf76bb)"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   </div>
 <p></p>
 
