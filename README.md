@@ -26,7 +26,7 @@
 ### Platform🤹   
 <div align='center'>
   <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20teams-6264A7?style=flat-square&logo=Microsoft%20teams&logoColor=white"/>
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=Jira&logoColor=white"/>
   
   </div>
 <p></p>
