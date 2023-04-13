@@ -34,7 +34,7 @@
 ### Platform🤹   
 <div align='center'>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-4A154B?style=flat-square&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 </div>
 <br/>
 
