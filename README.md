@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Developer%20Apple&fontSize=70&animation=twinkling&fontAlignY=35&fontColor=FFFFFF)
 
 # Introduction
-<div align='center'>
-  ## My Stats 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodongjin&show_icons=true&theme=radical)
+<div align='center'>  
+## My Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodongjin&show_icons=true&theme=radical)
 </div>
 
 
