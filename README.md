@@ -37,20 +37,11 @@
 </div>
 <br/>
 
-
-### My stats 🤓
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodongjin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodongjin&langs_count=10&layout=compact&theme=dark)
-<br/>
-<br/>
-<br/>
-<br/>
     
 ### About Me 🧑‍💻
 
 <div align='center'>
-  <a href="[https://ejko0911.medium.com/](https://www.notion.so/2b0816114973444099b073cf6acf76bb)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="[https://ejko0911.medium.com/](https://app.notion.com/p/2b0816114973444099b073cf6acf76bb)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 
 </div>
