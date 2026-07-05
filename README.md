@@ -36,12 +36,3 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 </div>
 <br/>
-
-    
-### About Me 🧑‍💻
-
-<div align='center'>
-  <a href="[https://ejko0911.medium.com/](https://app.notion.com/p/2b0816114973444099b073cf6acf76bb)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-</div>
-
-</div>
